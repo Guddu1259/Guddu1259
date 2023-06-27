@@ -27,13 +27,8 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :computer: I'm a Fullstack Developer
 - :dart: Life Hack: "Explore :fire: and Expl
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-
 <h2 align="left">:heart: Let's get connected:</h2>
 
 
